@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\csharpKursuUygulamalari\csharpKursuUygulamalari\bin\Debug\csharpKursuUygulamalari.exe.config
+C:\Users\hp\source\repos\csharpKursuUygulamalari\csharpKursuUygulamalari\bin\Debug\csharpKursuUygulamalari.exe
+C:\Users\hp\source\repos\csharpKursuUygulamalari\csharpKursuUygulamalari\bin\Debug\csharpKursuUygulamalari.pdb
+C:\Users\hp\source\repos\csharpKursuUygulamalari\csharpKursuUygulamalari\obj\Debug\csharpKursuUygulamalari.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\csharpKursuUygulamalari\csharpKursuUygulamalari\obj\Debug\csharpKursuUygulamalari.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\csharpKursuUygulamalari\csharpKursuUygulamalari\obj\Debug\csharpKursuUygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\csharpKursuUygulamalari\csharpKursuUygulamalari\obj\Debug\csharpKursuUygulamalari.exe
+C:\Users\hp\source\repos\csharpKursuUygulamalari\csharpKursuUygulamalari\obj\Debug\csharpKursuUygulamalari.pdb
